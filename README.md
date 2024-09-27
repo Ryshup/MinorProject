@@ -1,7 +1,3 @@
-Here's a template for the `README.md` file for your project:
-
----
-
 # Minor Project
 
 This is a **Flask-based web application** developed as part of my Minor Project. The project demonstrates the integration of machine learning with a web framework to create a task management system.
